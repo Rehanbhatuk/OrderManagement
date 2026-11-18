@@ -19,7 +19,7 @@ import java.util.List;
 public class PaymentController {
 
 
-    //Payment Controller
+    //Payment Controller in Github Folder
 
     private static final Logger log = LoggerFactory.getLogger(PaymentController.class);
 
