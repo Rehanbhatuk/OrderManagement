@@ -1,0 +1,22 @@
+2026-11-11 21:51:14 INFO  - Starting DemoApplication using Java 25.0.2 with PID 17048 (D:\SpringBoot\demo (1)\target\classes started by rehan in D:\SpringBoot\demo (1))
+2026-11-11 21:51:14 DEBUG - Running with Spring Boot v4.1.2, Spring v7.0.10
+2026-11-11 21:51:14 INFO  - No active profile set, falling back to 1 default profile: "default"
+2026-11-11 21:51:16 INFO  - Started DemoApplication in 1.742 seconds (process running for 2.156)
+2026-11-11 21:51:22 DEBUG - Fetching payments with status: OUTSTANDING
+2026-11-11 21:51:23 INFO  - Payments fetched successfully. Total: 2
+2026-11-11 21:51:56 DEBUG - Fetching all unpaid orders
+2026-11-11 21:51:56 INFO  - Unpaid orders fetched successfully. Total: 2
+2026-11-11 21:55:50 INFO  - Starting DemoApplication using Java 25.0.2 with PID 29032 (D:\SpringBoot\demo (1)\target\classes started by rehan in D:\SpringBoot\demo (1))
+2026-11-11 21:55:50 DEBUG - Running with Spring Boot v4.1.2, Spring v7.0.10
+2026-11-11 21:55:50 INFO  - No active profile set, falling back to 1 default profile: "default"
+2026-11-11 21:55:51 INFO  - Started DemoApplication in 1.968 seconds (process running for 2.478)
+2026-11-11 21:55:58 DEBUG - Fetching all unpaid orders
+2026-11-11 21:55:59 INFO  - Unpaid orders fetched successfully. Total: 2
+2026-11-11 21:58:12 INFO  - Starting DemoApplication using Java 25.0.2 with PID 11980 (D:\SpringBoot\demo (1)\target\classes started by rehan in D:\SpringBoot\demo (1))
+2026-11-11 21:58:12 DEBUG - Running with Spring Boot v4.1.2, Spring v7.0.10
+2026-11-11 21:58:12 INFO  - No active profile set, falling back to 1 default profile: "default"
+2026-11-11 21:58:13 INFO  - Started DemoApplication in 1.858 seconds (process running for 2.256)
+2026-11-11 21:58:49 DEBUG - DEBUG message
+2026-11-11 21:58:49 INFO  - INFO message
+2026-11-11 21:58:49 WARN  - WARN message
+2026-11-11 21:58:49 ERROR - ERROR message
