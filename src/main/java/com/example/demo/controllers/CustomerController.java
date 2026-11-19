@@ -17,6 +17,8 @@ import java.util.List;
 
 @RequestMapping("/customer")
 @RestController
+
+//Customer controller
 public class CustomerController {
     @Autowired
     private CustomerValidator customerValidator;
